@@ -1,0 +1,7 @@
+tornado=5.0
+mysql-connector-python
+sqlalchemy
+sockjs-tornado=1.0.6
+psutil
+pyecharts=0.5
+pyecharts-snapshot
